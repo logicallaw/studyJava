@@ -1,0 +1,14 @@
+package sec03.exam01;
+/*
+	작성자 : 홍길동
+	작성일 : 2024.03.06
+ */
+
+public class Hello { //바이트코드로 변환시 클래스명인 Hello는 .class가 붙어서 Hello 클래스를 생성한다.
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Java!");
+	}
+
+}

@@ -1,0 +1,17 @@
+package sec04.exam01;
+
+public class PrintfExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int value = 123;
+		System.out.println(value);
+		System.out.print(value);
+		System.out.println("안녕하세요");
+		System.out.printf("상품 가격:%d원\n", value);
+		System.out.printf("상품의 가격:%6d원\n", value);
+		System.out.printf("상품의 가격:%-6d원\n", value);
+		System.out.printf("상품의 가격:%06d원\n", value);
+	}
+
+}

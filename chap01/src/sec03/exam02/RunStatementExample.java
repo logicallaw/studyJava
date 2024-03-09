@@ -4,8 +4,10 @@ public class RunStatementExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int x = 1;
-		int y = 2;
+		int x;
+		int y;
+		x = 2;
+		y = 3;
 		int result = x + y;
 		System.out.println(result);
 	}

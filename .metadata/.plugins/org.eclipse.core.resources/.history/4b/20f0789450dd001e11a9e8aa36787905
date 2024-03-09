@@ -1,0 +1,13 @@
+package sec02.exam05;
+
+public class StringExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name = "홍길동"; //문자열 저장
+		String job = "프로그래머";
+		System.out.println(name); //C++와 다르게 자동 줄바꿈 한다.
+		System.out.println(job);
+	}
+
+}
